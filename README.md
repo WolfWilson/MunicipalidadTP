@@ -5,7 +5,7 @@ Este proyecto facilita la interacción entre los propietarios de bienes imponibl
 
 ### La aplicación se compone de dos partes principales:
 
-**API Web (.NET 8): **Proporciona la lógica de negocio y la interacción con la base de datos, exponiendo endpoints para la consulta de deudas, autenticación de usuarios y registro de pagos.
+**API Web (.NET 8): **Proporciona la lógica de consultas y la interacción con la base de datos, exponiendo endpoints para la consulta de deudas, autenticación de usuarios y registro de pagos.
 *Frontend (HTML/CSS):* Presenta una interfaz intuitiva para que los usuarios puedan interactuar con la aplicación, consultar su estado de cuenta y realizar pagos.
 
 ### Tecnologías Utilizadas
