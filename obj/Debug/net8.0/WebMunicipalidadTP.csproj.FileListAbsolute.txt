@@ -135,3 +135,6 @@ C:\Users\wbenitez\HTML\MunicipalidadTP\Backend\WebMunicipalidadTP\bin\Debug\net8
 C:\Users\wbenitez\HTML\MunicipalidadTP\Backend\WebMunicipalidadTP\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\wbenitez\HTML\MunicipalidadTP\Backend\WebMunicipalidadTP\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\wbenitez\HTML\MunicipalidadTP\Backend\WebMunicipalidadTP\bin\Debug\net8.0\BCrypt.Net.dll
+C:\Users\wolfwilson\Documents\MunicipalidadTP\obj\Debug\net8.0\WebMunicipalidadTP.dll
+C:\Users\wolfwilson\Documents\MunicipalidadTP\obj\Debug\net8.0\refint\WebMunicipalidadTP.dll
+C:\Users\wolfwilson\Documents\MunicipalidadTP\obj\Debug\net8.0\WebMunicipalidadTP.pdb
